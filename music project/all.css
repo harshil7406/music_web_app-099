@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(26, 25, 25);
+color: whitesmoke;
+}
+
+.title{
+    text-align: center;
+}
+
+.spin{
+    width: 300px;
+    animation-name: spinner;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    border-radius: 50%;
+}
+
+
+@keyframes spinner{
+   0% { transform: rotate(0deg) }
+100% {transform: rotate(360deg)}
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 20px
+}
+
+.hi{
+    height: 100px;
+    width: auto;
+}
+
+ul{
+    color: whitesmoke;
+    list-style: none;
+    text-align: right;
+    margin-top: -100px;
+    margin-right: 10px;
+}
+
+.nav ul li{
+    display: inline-block;
+    margin: 20px;
+}
+
+hr{
+    margin-top: 30px;
+}

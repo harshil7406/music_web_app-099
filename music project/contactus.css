@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(26, 25, 25);
+color: whitesmoke;
+}
+
+.title{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+.contactus{
+margin-left: 500px;
+}
+
+img{
+    background-color: azure;
+    width: 300px;
+}
+
+P{
+    text-align: center;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 20px
+}
+
+.hi{
+    height: 100px;
+    width: auto;
+}
+
+ul{
+    color: whitesmoke;
+    list-style: none;
+    text-align: right;
+    margin-top: -100px;
+    margin-right: 10px;
+}
+
+.nav ul li{
+    display: inline-block;
+    margin: 20px;
+}
+
+hr{
+    margin-top: 30px;
+}

@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(26, 25, 25);
+    height: 700px;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+img{
+    height: 100px;
+    width: 130px;
+}
+
+ul{
+    color: whitesmoke;
+    list-style: none;
+    text-align: right;
+    margin-top: -100px;
+    margin-right: 10px;
+}
+
+.nav ul li{
+    display: inline-block;
+    margin: 20px;
+}
+
+hr{
+    margin-top: 30px;
+}
+
+
+/* *********************************************************************************************************** */
+
+/*line 1 start */
+
+.img1{
+    height: 200px;
+    margin-left: 6px;
+}
+
+.img2{
+height: 200px;
+width: 130px;
+margin-left: 6px;
+}
+
+
+.img3{
+    height: 200px;
+    width: 130px;
+    margin-left: 6px;
+    }
+
+.img4{
+    height: 200px;
+    width: 130px;
+    margin-left: 6px;
+    }
+    
+
+.music1{
+    border: 1px solid;
+    padding: 2px;
+    width: 150px;
+    background-color: rgb(68, 79, 100);
+}
+
+.music1 p{
+    font-size: 20px;
+    text-align: center;
+color: whitesmoke;
+}
+
+.music1:hover{
+   border: 1px;
+   box-shadow: 5px 5px 5px 5px rgb(90, 165, 216);
+}
+
+
+.main{
+    margin-top: 8px;
+}
+
+.main1{
+    margin-left: 200px;
+    margin-top: 8px;
+    transform: translateY(-585px);
+}
+
+
+.main2{
+    margin-left: 400px;
+    margin-top: 4px;
+    transform: translateY(-1165px);
+}
+
+
+.main3{
+    margin-left: 600px;
+    margin-top: 8px;
+    transform: translateY(-1780px);
+}
+
+
+.main4{
+    margin-left: 800px;
+    margin-top: 8px;
+    transform: translateY(-2390px);
+}
+
+.main5{
+    margin-left: 1000px;
+    margin-top: 8px;
+    transform: translateY(-3000px);
+}
+
+.mag{
+    height: 20px;
+}
+
+
+.container{
+    color:black;
+    transform: translate(400px, -60px);
+    
+}
+
+
